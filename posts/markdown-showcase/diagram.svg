@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">暗黑基米博客示例图片</title>
+  <desc id="desc">深色背景中央显示暗黑基米博客字样和一条紫色光带。</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#05070d"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#background)"/>
+  <circle cx="600" cy="300" r="180" fill="#7c3aed" opacity="0.08"/>
+  <rect x="215" y="418" width="770" height="3" rx="1.5" fill="url(#glow)"/>
+  <text x="600" y="340" fill="#f3f4f6" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="74" text-anchor="middle" letter-spacing="8">暗黑基米博客</text>
+  <text x="600" y="390" fill="#9ca3af" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="24" text-anchor="middle">记录一些想法、计划和开发中的问题。</text>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>分类 on 暗黑基米博客</title>
+    <link>https://rouven-crp.github.io/categories/</link>
+    <description>Recent content in 分类 on 暗黑基米博客</description>
+    <generator>Hugo -- 0.166.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 17 Sep 2026 09:00:00 +0800</lastBuildDate>
+    <atom:link href="https://rouven-crp.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>开发记录</title>
+      <link>https://rouven-crp.github.io/categories/%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Thu, 17 Sep 2026 09:00:00 +0800</pubDate>
+      <guid>https://rouven-crp.github.io/categories/%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
