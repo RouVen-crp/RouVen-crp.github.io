@@ -2,28 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rouven-crp.github.io/</loc>
+    <lastmod>2026-10-25T00:08:25+08:00</lastmod>
+  </url><url>
+    <loc>https://rouven-crp.github.io/posts/%E5%BF%85%E9%A1%BB%E8%A6%81%E5%86%99%E7%82%B9%E4%BB%80%E4%B9%88-341e8a5877fb/</loc>
+    <lastmod>2026-10-25T00:08:25+08:00</lastmod>
+  </url><url>
+    <loc>https://rouven-crp.github.io/tags/</loc>
+    <lastmod>2026-10-25T00:08:25+08:00</lastmod>
+  </url><url>
+    <loc>https://rouven-crp.github.io/categories/</loc>
+    <lastmod>2026-10-25T00:08:25+08:00</lastmod>
+  </url><url>
+    <loc>https://rouven-crp.github.io/categories/%E9%9A%8F%E6%83%B3/</loc>
+    <lastmod>2026-10-25T00:08:25+08:00</lastmod>
+  </url><url>
+    <loc>https://rouven-crp.github.io/tags/%E9%9A%8F%E6%83%B3/</loc>
+    <lastmod>2026-10-25T00:08:25+08:00</lastmod>
+  </url><url>
+    <loc>https://rouven-crp.github.io/posts/</loc>
+    <lastmod>2026-10-25T00:08:25+08:00</lastmod>
+  </url><url>
     <loc>https://rouven-crp.github.io/tags/hugo/</loc>
     <lastmod>2026-09-17T09:00:00+08:00</lastmod>
   </url><url>
     <loc>https://rouven-crp.github.io/tags/markdown/</loc>
     <lastmod>2026-09-17T09:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://rouven-crp.github.io/</loc>
-    <lastmod>2026-09-17T09:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://rouven-crp.github.io/tags/</loc>
-    <lastmod>2026-09-17T09:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://rouven-crp.github.io/posts/markdown-showcase/</loc>
     <lastmod>2026-09-17T09:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://rouven-crp.github.io/categories/</loc>
-    <lastmod>2026-09-17T09:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://rouven-crp.github.io/categories/%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2026-09-17T09:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://rouven-crp.github.io/posts/</loc>
     <lastmod>2026-09-17T09:00:00+08:00</lastmod>
   </url><url>
     <loc>https://rouven-crp.github.io/license/</loc>
