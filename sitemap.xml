@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rouven-crp.github.io/</loc>
-    <lastmod>2026-10-25T00:08:25+08:00</lastmod>
+    <lastmod>2026-11-13T23:50:24+08:00</lastmod>
+  </url><url>
+    <loc>https://rouven-crp.github.io/posts/</loc>
+    <lastmod>2026-11-13T23:50:24+08:00</lastmod>
+  </url><url>
+    <loc>https://rouven-crp.github.io/posts/%E6%88%91%E4%B8%80%E5%AE%9A%E4%BC%9A%E5%90%8E%E6%82%94%E7%9A%84-28c677a36fbc/</loc>
+    <lastmod>2026-11-13T23:50:24+08:00</lastmod>
   </url><url>
     <loc>https://rouven-crp.github.io/posts/%E5%BF%85%E9%A1%BB%E8%A6%81%E5%86%99%E7%82%B9%E4%BB%80%E4%B9%88-341e8a5877fb/</loc>
     <lastmod>2026-10-25T00:08:25+08:00</lastmod>
@@ -18,9 +24,6 @@
     <lastmod>2026-10-25T00:08:25+08:00</lastmod>
   </url><url>
     <loc>https://rouven-crp.github.io/tags/%E9%9A%8F%E6%83%B3/</loc>
-    <lastmod>2026-10-25T00:08:25+08:00</lastmod>
-  </url><url>
-    <loc>https://rouven-crp.github.io/posts/</loc>
     <lastmod>2026-10-25T00:08:25+08:00</lastmod>
   </url><url>
     <loc>https://rouven-crp.github.io/tags/hugo/</loc>
